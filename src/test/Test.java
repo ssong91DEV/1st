@@ -21,6 +21,6 @@ public class Test extends JFrame {
 		f.pack();
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setVisible(true);
-
+//상은test
 	}
 }
